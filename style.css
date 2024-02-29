@@ -291,7 +291,7 @@ section{
         }
 
         section h2{
-            font-size: 28px;
+            font-size: 26px;
             padding-right: 5px;
             padding-left: 5px;
         }
@@ -303,5 +303,15 @@ section{
 
         .checkbox-itens label{
             font-size: 17px;
+        }
+
+        /* Footer */
+
+        footer .linha1{
+            flex-direction: column;
+        }
+
+        footer .endereco{
+            margin-bottom: 20px;
         }
     }
